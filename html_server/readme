@@ -1,0 +1,2 @@
+need python-twisted
+(apt-get install python-twisted)
