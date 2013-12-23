@@ -4,7 +4,7 @@ from twisted.web.server import NOT_DONE_YET
 import twisted
 from twisted.internet import protocol, reactor
 
-f = open("sse-node.html")
+f = open("html_content.html")
 
 
 htmlData=f.read()
